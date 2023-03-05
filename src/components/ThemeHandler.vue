@@ -10,7 +10,7 @@ export default {
   name: 'ThemeHandler',
   data() {
     return {
-      theme: localStorage.getItem('theme') || 'light',
+      theme: localStorage.getItem('theme') || 'dark',
       darkCheckBox: false,
     };
   },
