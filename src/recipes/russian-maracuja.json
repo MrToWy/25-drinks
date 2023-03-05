@@ -1,0 +1,37 @@
+{
+    "name": "Russian Maracuja",
+    "description": "Danke Berenzen.",
+    "github": "MrToWy",
+    "ingredients": [
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "Vodka"
+        },
+        {
+            "quantity": "50",
+            "measure": "ml",
+            "ingredient": "Maracuja Likör"
+        },
+        {
+            "quantity": "100",
+            "measure": "ml",
+            "ingredient": "Orangensaft"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Eiswürfel"
+        }
+    ],
+    "directions": [
+        "O-Saft -> Maracuja -> Vodka -> Eis."
+    ],
+    "image": "agua-de-valencia.jpg",
+    "keywords": [
+        "orangensaft",
+        "vodka",
+        "maracuja likör",
+        "eis"
+    ]
+}

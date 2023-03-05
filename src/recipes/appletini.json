@@ -1,45 +1,44 @@
 {
     "name": "Appletini",
-    "description": "A sweet and sour electric green drink with a sweet, delicious apple flavor",
-    "github": "aldermann",
+    "description": "Ein süß-saurer, elektrisch grüner Drink mit süßem, köstlichem Apfelgeschmack",
+    "github": "MrToWy",
     "ingredients": [
         {
-            "quantity": "1 1/2",
-            "measure": "fl oz",
-            "ingredient": "vodka"
+            "quantity": "45",
+            "measure": "ml",
+            "ingredient": "Wodka"
         },
         {
-            "quantity": "1",
-            "measure": "fl oz",
-            "ingredient": "green apple schnapps"
+            "quantity": "45",
+            "measure": "ml",
+            "ingredient": "trüber Apfelsaft"
         },
         {
-            "quantity": "1/4",
-            "measure": "fl oz",
-            "ingredient": "lemon juice"
+            "quantity": "5",
+            "measure": "ml",
+            "ingredient": "Zitronensaft"
         },
         {
-            "quantity": "1",
-            "measure": "cup",
-            "ingredient": "ice cubes"
+            "quantity": "5",
+            "measure": "ml",
+            "ingredient": "Ahornsirup"
         },
         {
-            "quantity": "1",
+            "quantity": "",
             "measure": "",
-            "ingredient": "apple slice"
+            "ingredient": "Eiswürfel"
         }
     ],
     "directions": [
-        "Dip the apple slice in lemon juice to prevent it from turning yellow.",
-        "Combine all the liquid ingredients in a cocktail mixing cup. Fill it with ice and shake well.",
-        "Strain into a cocktail glass.",
-        "Garnish with the apple slice."
+        "Alle Zutaten in einen Cocktail-Shaker geben.",
+        "Mit Eis füllen und kräftig schütteln.",
+        "In ein Cocktailglas geben."
     ],
-    "image": "appletini.jpg",
+    "image": "appletini_t.jpg",
     "keywords": [
         "vodka",
-        "apple",
-        "alcoholic",
+        "apfel",
+        "alkoholisch",
         "vegan"
     ]
 }

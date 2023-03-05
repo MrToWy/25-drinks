@@ -1,0 +1,39 @@
+{
+    "name": "Jägerita",
+    "description": "Der Jägerita ist auf den ersten Blick möglicherweise nicht besonders aufregend. Aber irgendwie passen alle Aromen perfekt zusammen und schaffen ein einzigartiges Geschmackserlebnis!",
+    "github": "",
+    "ingredients": [
+        {
+            "quantity": "45",
+            "measure": "ml",
+            "ingredient": "Jägermeister"
+        },
+        {
+            "quantity": "25",
+            "measure": "ml",
+            "ingredient": "Triple Sec"
+        },
+        {
+            "quantity": "25",
+            "measure": "ml",
+            "ingredient": "Limettensaft"
+        },
+        {
+            "quantity": "10",
+            "measure": "ml",
+            "ingredient": "Zuckersirup"
+        }
+    ],
+    "directions": [
+        "Alle Zutaten in einen Shaker geben und kräftig für 15 Sekunden mixen.",
+        "In ein mit Eis gefülltes Glas abseihen und servieren."
+    ],
+    "image": "hanky-panky.jpg",
+    "keywords": [
+        "Jägermeister",
+        "Triple Sec",
+        "Limettensaft",
+        "Zuckersirup",
+        "alkoholhaltig"
+    ]
+}

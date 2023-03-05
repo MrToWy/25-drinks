@@ -24,7 +24,7 @@ import zh from './lang/zh';
 Vue.use(VueI18n);
 
 export default new VueI18n({
-  locale: (window.navigator.language && window.navigator.language.split('-')[0]) || 'en',
+  locale: (window.navigator.language && window.navigator.language.split('-')[0]) || 'de',
   messages: {
     ar,
     bn,
@@ -46,7 +46,7 @@ export default new VueI18n({
     vi,
     zh,
   },
-  fallbackLocale: 'en',
+  fallbackLocale: 'de',
   silentTranslationWarn: true,
   silentFallbackWarn: true,
 });

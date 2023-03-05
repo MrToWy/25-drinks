@@ -1,40 +1,40 @@
 {
     "name": "Cosmopolitan",
-    "description": "One thing is certain, the Cosmopolitan is outdated, but just like the cocktail as a whole, it just needs a little help to get back on track!",
-    "github": "joshuamart",
+    "description": "Elegant und ausgeglichen, mit einer erfrischenden Säure und einem Hauch von Süße und Bitterkeit",
+    "github": "MrToWy",
     "ingredients": [
         {
-            "quantity": "1.5",
-            "measure": "oz",
-            "ingredient": "vodka"
+            "quantity": "45",
+            "measure": "ml",
+            "ingredient": "Vodka"
         },
         {
-            "quantity": "0.5",
-            "measure": "oz",
-            "ingredient": "green lemon juice"
+            "quantity": "10",
+            "measure": "ml",
+            "ingredient": "Limettensaft"
         },
         {
-            "quantity": "0.5",
-            "measure": "oz",
-            "ingredient": "triple sec (Curacao, Grand Marnier, Cointreau)"
+            "quantity": "15",
+            "measure": "ml",
+            "ingredient": "Triple Sec (Curacao, Grand Marnier, Cointreau)"
         },
         {
-            "quantity": "0.5",
-            "measure": "oz",
-            "ingredient": "Cranberry juice"
+            "quantity": "45",
+            "measure": "ml",
+            "ingredient": "Cranberrysaft"
         }
     ],
     "directions": [
-        "Combine all the ingredients in a shaker and mix vigorously for 15 seconds.",
-        "If you wish to respect the original recipe of the cosmo, take an orange peel and press it over the glass and in front of a match to ignite the orange essential oils on the surface of the peel."
+        "Alle Zutaten in einen Shaker geben und kräftig für 15 Sekunden shaken.",
+        "Wenn Du das Originalrezept des Cosmos respektieren möchtest, nimm eine Orangenschale und drücke sie über dem Glas aus und zünde sie vor einem Streichholz an, um die ätherischen Öle auf der Oberfläche der Schale zu entzünden."
     ],
     "image": "cosmopolitan.jpg",
     "keywords": [
         "vodka",
-        "lemon juice",
+        "limettensaft",
         "triple sec",
-        "cranberry juice",
-        "alcoholic",
+        "cranberrysaft",
+        "alkoholhaltig",
         "vegan"
-	]
+    ]
 }

@@ -141,7 +141,7 @@ export default {
       title: 'Open Drinks',
       titleTemplate: `%s - ${this.drink.name}`,
       htmlAttrs: {
-        lang: 'en',
+        lang: 'de',
       },
       meta: [
         {

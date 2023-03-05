@@ -42,9 +42,9 @@ export default {
   },
   metaInfo() {
     return {
-      title: 'Open Drinks',
+      title: '25 Drinks',
       htmlAttrs: {
-        lang: 'en',
+        lang: 'de',
       },
       meta: [
         {
