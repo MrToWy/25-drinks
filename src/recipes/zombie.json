@@ -1,0 +1,79 @@
+{
+    "name": "Zombie",
+    "description": "The Zombie is a cocktail made of fruit juices, liqueurs, and various rums. It first appeared in late 1934. It was popularized on the East coast soon afterward at the 1939 New York World's Fair.",
+    "github": "MrToWy",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "Cointreau"
+        },
+        {
+            "quantity": "",
+            "measure": "",
+            "ingredient": "Eiswürfel"
+        },
+        {
+            "quantity": "200ml",
+            "measure": "",
+            "ingredient": "Crushed Ice"
+        },
+        {
+            "quantity": "6",
+            "measure": "cl",
+            "ingredient": "Ananassaft"
+        },
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "Zitronensaft"
+        },
+        {
+            "quantity": "4",
+            "measure": "cl",
+            "ingredient": "Orangensaft"
+        },
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "Maracujasirup"
+        },
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "Grenadine"
+        },
+        {
+            "quantity": "1",
+            "measure": "cl",
+            "ingredient": "Overproof Rum"
+        },
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "Brauner Rum"
+        },
+        {
+            "quantity": "2",
+            "measure": "cl",
+            "ingredient": "Weißer Rum"
+        },
+        {
+            "quantity": "1",
+            "measure": "Scheibe",
+            "ingredient": "Orange"
+        }
+    ],
+    "directions": [
+        "Zutaten mixen.",
+        "Glas mit Crushed Eis füllen und Cocktail durch Sieb eingießen.",
+        "Mit Orange garnieren."
+    ],
+    "image": "zombie.jpg",
+    "source": "https://www.gutekueche.at/zombie-cocktail-rezept-17979",
+    "keywords": [
+        "cocktail",
+        "rum",
+        "alcoholic"
+    ]
+}
