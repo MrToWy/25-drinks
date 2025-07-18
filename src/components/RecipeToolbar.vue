@@ -20,28 +20,6 @@
         !isFavorited ? $t('recipeToolbar.setFavorite') : $t('recipeToolbar.unsetFavorite')
       "
     ></FavoriteStar>
-    <ShareNetwork
-      network="facebook"
-      :url="url"
-      :title="drink.name"
-      :description="drink.description"
-      :hashtags="drink.keywords.join()"
-      class="px-1 clickable-icon-hover"
-      v-b-tooltip.hover.nonInteractive="$t('recipeToolbar.shareOnFacebook')"
-    >
-      <BIconFacebook font-scale="2"></BIconFacebook>
-    </ShareNetwork>
-    <ShareNetwork
-      network="twitter"
-      :url="url"
-      :title="drink.name"
-      :description="drink.description"
-      :hashtags="drink.keywords.join()"
-      class="px-1 clickable-icon-hover"
-      v-b-tooltip.hover.nonInteractive="$t('recipeToolbar.shareOnTwitter')"
-    >
-      <BIconTwitter font-scale="2"></BIconTwitter>
-    </ShareNetwork>
     <BIconFiles
       v-b-tooltip.hover.nonInteractive="$t('recipeToolbar.copyURL')"
       class="mx-1 theme-link-color cursor-pointerclickable-icon-hover"
@@ -66,7 +44,7 @@
 </template>
 
 <script>
-import { BIconTwitter, BIconPrinter, BIconFiles, BIconFacebook } from 'bootstrap-vue';
+import { BIconPrinter, BIconFiles } from 'bootstrap-vue';
 import FavoriteStar from './FavoriteStar.vue';
 
 export default {
@@ -79,10 +57,8 @@ export default {
   },
   components: {
     FavoriteStar,
-    BIconTwitter,
     BIconPrinter,
     BIconFiles,
-    BIconFacebook,
   },
   data() {
     return {

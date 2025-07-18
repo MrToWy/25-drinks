@@ -41,7 +41,7 @@ export default {
     };
   },
   created() {
-    window.document.title = `Open Drinks - Featured`;
+    window.document.title = `25 Drinks - Featured`;
     this.featuredList = recipes.getFeaturedRecipes();
   },
   methods: {

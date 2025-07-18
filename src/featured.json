@@ -1,5 +1,44 @@
 [
   {
+    "title": "Empfohlen",
+    "description": "Die leckersten Cocktails der Welt",
+    "items": [
+      "appletini",
+      "cosmopolitan"
+    ],
+    "size": 12,
+    "enabled": true
+  },
+  {
+    "title": "Easy Drinks",
+    "description": "Selbst nach 3 starken Drinks, bekommst du diese Cocktails noch gemixt. Versprochen.",
+    "items": [
+      "tequila-sunrise",
+      "russian-maracuja"
+    ],
+    "size": 6
+  },
+  {
+    "title": "Strong Drinks",
+    "description": "Super strong alcoholic drinks that make you forget all about your troubles",
+    "items": [
+      "long-island-iced-tea",
+      "zombie",
+      "black-russian"
+    ],
+    "size": 6
+  },
+  {
+    "title": "Alkoholfrei",
+    "description": "Ich kann nicht, ich muss noch fahren.",
+    "items": [
+      "long-island-iced-tea",
+      "zombie",
+      "black-russian"
+    ],
+    "size": 6
+  },
+  {
     "title": "Halloween Drinks",
     "description": "👻 Spooky Drinks for October! 👻",
     "items": [
@@ -83,7 +122,8 @@
       "dark-and-stormy",
       "daiquiri"
     ],
-    "size": 12
+    "size": 12,
+    "enabled": false
   },
   {
     "title": "Hot Weather drinks",
@@ -146,7 +186,7 @@
       "warm-lemon-honey-tea"
     ],
     "size": 6,
-    "enabled": true
+    "enabled": false
   },
   {
     "title": "Everything is Chocolate",
@@ -158,18 +198,10 @@
         "dom-pedro",
         "indonesian-avocado-milkshake"
     ],
-    "size": 6
+    "size": 6,
+    "enabled": false
   },
-  {
-    "title": "Strong Drinks",
-    "description": "Super strong alcoholic drinks that make you forget all about your troubles",
-    "items": [
-      "long-island-iced-tea",
-      "zombie",
-      "black-russian"
-    ],
-    "size": 6
-  },
+
   {
     "title": "Milky Heaven",
     "description": "Drinks which do contain milk",
@@ -201,7 +233,8 @@
       "nevada",
       "meia-de-seda"
     ],
-    "size": 6
+    "size": 6,
+    "enabled": false
   },
   {
     "title": "Homecoming Drinks",
